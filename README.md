@@ -1,6 +1,6 @@
 # BASE-DE-DATOS-I
 ## PORTAFOLIO DE LA ASIGNATURA BASE DE DATOS I
-! [](https://www.beedigital.es/wp-content/uploads/2020/11/crear-base-de-datos.jpg)
+![](https://www.beedigital.es/wp-content/uploads/2020/11/crear-base-de-datos.jpg)
 
 | Materia | Links del curso |
 | ------ | ----- |
